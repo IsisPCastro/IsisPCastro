@@ -21,7 +21,7 @@ Here are some of the tools and languages I’m familiar with:
 
 | Category | Tools |
 |-----------|--------|
-| Languages | Python 🐍 • C • C++ |
+| Languages | Python 🐍 • C |
 | Tools | Git • GitHub • VS Code |
 
 ---
